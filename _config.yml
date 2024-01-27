@@ -3,9 +3,9 @@ logo: "/images/profile_4.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Pete is a technology professional with 20 years of experience in data analytics, business management, ecommerce website development, and CRM system development, among other technical and business applications.
   <br><br>
-  Pete's educational background is in law and politics, data analytics and cybersecurity, with a BA in Political Sciences and an MS in Data Science with a cybersecurity focus area.
+  Pete's educational background is in law and politics, data analytics and cybersecurity, with a BA in Political Science and an MS in Data Science with a cybersecurity focus area, both from Indiana University.
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/pvstewart/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:

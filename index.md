@@ -8,7 +8,7 @@
 
 This project was created to explore the concept of "Food Deserts", or areas in a city that have limited access to healthy food sources. This project uses the Four-Square venue application's open data combined with geographic location info. The project was intended to visualize the geographic distribution of grocery stores in the city of Indianapolis, Indiana and map this distribution for easy visualization in a heat map configuration. The project can easily be adapted to map any US location. The project also uses KNN clustering to organize the zip codes around Indianapolis based on this distribution, as well as conducting some basic EDA around connections between income and food availability to help add context to the data.
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)  [![](https://img.shields.io/badge/Foursquare-blue?logo=foursquare)](#) [![](https://img.shields.io/badge/scikit-learn_ML-white?logo=scikitlearn)](#)
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)  [![](https://img.shields.io/badge/Foursquare-blue?logo=foursquare)](#) [![](https://img.shields.io/badge/scikitlearn_ml-white?logo=scikitlearn)](#)
 
 [Project Notebook](https://github.com/pvstewar/Food-Availability-Mapping/blob/master/Grocery%20Store%20Data%20Project.ipynb)<br>
 [Project Report](https://github.com/pvstewar/Food-Availability-Mapping/blob/master/Grocery%20Store%20Availability%20Report.pdf)

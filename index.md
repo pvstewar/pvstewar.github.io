@@ -2,8 +2,6 @@
 
 ---
 
-### Data Research Projects 
-
 [Mapping Food Deserts with Venue Data](https://github.com/pvstewar/Food-Availability-Mapping)
 
 This project was created to explore the concept of "Food Deserts", or areas in a city that have limited access to healthy food sources. This project uses the Four-Square venue application's open data combined with geographic location info. The project was intended to visualize the geographic distribution of grocery stores in the city of Indianapolis, Indiana and map this distribution for easy visualization in a heat map configuration. The project can easily be adapted to map any US location. The project also uses KNN clustering to organize the zip codes around Indianapolis based on this distribution, as well as conducting some basic EDA around connections between income and food availability to help add context to the data.
@@ -16,7 +14,12 @@ This project was created to explore the concept of "Food Deserts", or areas in a
 <img src="images/food_desert_heat_map.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Clinical Trial Analysis](https://github.com/pvstewar/IN_Clinical_trials)
+
+The purpose of this project is to gather data about clinical trials that have been conducted in the state of Indiana in order to make a determination about the level of trial activity in the state, how it compares to other states, and the nature of the trials. The goal is to understand where Indiana ranks, what areas we may be able to target to make the state more of a destination for clinic trials in the future, and to get a general sense of the distribution of trial activity across the country as a whole.
+
+[![Full Jupyter Notebook](https://drive.google.com/file/d/1p3kx5b70l_JfLGdvxLHIDeHsae1zuaGD/view?usp=sharing)
+
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -24,8 +27,6 @@ This project was created to explore the concept of "Food Deserts", or areas in a
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-
-### Category Name 2
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)

@@ -18,9 +18,12 @@ This project was created to explore the concept of "Food Deserts", or areas in a
 
 The purpose of this project is to gather data about clinical trials that have been conducted in the state of Indiana in order to make a determination about the level of trial activity in the state, how it compares to other states, and the nature of the trials. The goal is to understand where Indiana ranks, what areas we may be able to target to make the state more of a destination for clinic trials in the future, and to get a general sense of the distribution of trial activity across the country as a whole.
 
-[![Full Jupyter Notebook](https://drive.google.com/file/d/1p3kx5b70l_JfLGdvxLHIDeHsae1zuaGD/view?usp=sharing)
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-blue?logo=Jupyter)](#)  [![](https://img.shields.io/badge/plotly-red?logo=plotly)](#)
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project Notebook](https://drive.google.com/file/d/1p3kx5b70l_JfLGdvxLHIDeHsae1zuaGD/view?usp=sharing)
+[Project Slides](https://github.com/pvstewar/IN_Clinical_trials/blob/main/Final%20IN%20Clinical%20Trial%20Report.pdf)
+
+<img src="images/US_other.jpg"/>
 
 ---
 [Project 3 Title](http://example.com/)

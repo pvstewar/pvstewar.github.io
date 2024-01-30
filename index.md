@@ -1,4 +1,26 @@
 ## Portfolio
+---
+
+[Loan Risk Assesment from Alterantive Financial Indicators](https://github.com/pvstewar/ML_Classification_HCDR)
+
+The topic of this project is using Python Machine Learning to classify credit default risk based on data about individuals that is typically outside of the normal data reported to lenders in attempting to attain credit. The project data and the submissions included were part of the Kaggle [Home Credit Default Risk competition](https://www.kaggle.com/competitions/home-credit-default-risk). The sections of the project are divided into multiple notebooks for ease of access and can be viewed in the following links.
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-blue?logo=Jupyter)](#)  [![](https://img.shields.io/badge/PyTorch-red?logo=pytorch)](#) [![](https://img.shields.io/badge/ScikitLearn_ML-blue?logo=scikitlearn)](#)
+
+- [Part 1 Exploritory Data Analysis](https://github.com/pvstewar/ML_Classification_HCDR/blob/main/P1_HCDR_EDA.ipynb)
+- [Part 2 Feature Engineering](https://github.com/pvstewar/ML_Classification_HCDR/blob/main/P2_HCDR_Dataset_Build.ipynb)
+- [Part 3 SKLearn Pipeline](https://github.com/pvstewar/ML_Classification_HCDR/blob/main/P3_HCDR_ML_Pipeline.ipynb)
+- [Part 4 PyTorch Pipeline](https://github.com/pvstewar/ML_Classification_HCDR/blob/main/P4_HCDR_Pytorch_Pipeline.ipynb)
+- [Part 5 Balancing with Smote](https://github.com/pvstewar/ML_Classification_HCDR/blob/main/P5_HCDR_Balance.ipynb)
+
+- [Project Report](https://github.com/pvstewar/ML_Classification_HCDR/blob/main/HCDR_Report.pdf)
+
+
+<p float="left">
+  <img src="images/corr_hm.jpg" width="500"/> 
+  <img src="images/scatter_mat.jpg" width="500"/>
+  <img src="images/kaggle-home-credit.jpg" width="500"/>
+</p>
 
 ---
 
@@ -6,7 +28,7 @@
 
 This project was created to explore the concept of "Food Deserts", or areas in a city that have limited access to healthy food sources. This project uses the Four-Square venue application's open data combined with geographic location info. The project was intended to visualize the geographic distribution of grocery stores in the city of Indianapolis, Indiana and map this distribution for easy visualization in a heat map configuration. The project can easily be adapted to map any US location. The project also uses KNN clustering to organize the zip codes around Indianapolis based on this distribution, as well as conducting some basic EDA around connections between income and food availability to help add context to the data.
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-blue?logo=Jupyter)](#)  [![](https://img.shields.io/badge/Foursquare-red?logo=foursquare)](#) [![](https://img.shields.io/badge/scikitlearn_ml-blue?logo=scikitlearn)](#) [![](https://img.shields.io/badge/folium-white?logo=folium)](#)
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-blue?logo=Jupyter)](#)  [![](https://img.shields.io/badge/Foursquare-red?logo=foursquare)](#) [![](https://img.shields.io/badge/ScikitLearn_ML-blue?logo=scikitlearn)](#) [![](https://img.shields.io/badge/Folium-white?logo=folium)](#)
 
 [Project Notebook](https://github.com/pvstewar/Food-Availability-Mapping/blob/master/Grocery%20Store%20Data%20Project.ipynb)<br>
 [Project Report](https://github.com/pvstewar/Food-Availability-Mapping/blob/master/Grocery%20Store%20Availability%20Report.pdf)

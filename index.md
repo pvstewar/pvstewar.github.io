@@ -1,7 +1,7 @@
 ## Portfolio
 ---
 
-[Loan Risk Assesment from Alterantive Financial Indicators](https://github.com/pvstewar/ML_Classification_HCDR)
+[Loan Risk Assessment from Alternative Financial Indicators](https://github.com/pvstewar/ML_Classification_HCDR)
 
 The topic of this project is using Python Machine Learning to classify credit default risk based on data about individuals that is typically outside of the normal data reported to lenders in attempting to attain credit. The project data and the submissions included were part of the Kaggle [Home Credit Default Risk competition](https://www.kaggle.com/competitions/home-credit-default-risk). The sections of the project are divided into multiple notebooks for ease of access and can be viewed in the following links.
 
@@ -15,11 +15,10 @@ The topic of this project is using Python Machine Learning to classify credit de
 
 - [Project Report](https://github.com/pvstewar/ML_Classification_HCDR/blob/main/HCDR_Report.pdf)
 
-
+<img src="images/kaggle-home-credit.jpg" width="500"/>
 <p float="left">
-  <img src="images/corr_hm.jpg" width="500"/> 
-  <img src="images/scatter_mat.jpg" width="500"/>
-  <img src="images/kaggle-home-credit.jpg" width="500"/>
+  <img src="images/corr_hm.jpg" width="250"/> 
+  <img src="images/scatter_mat.jpg" width="250"/>
 </p>
 
 ---

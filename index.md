@@ -15,11 +15,10 @@ The topic of this project is using Python Machine Learning to classify credit de
 
 - [Project Report](https://github.com/pvstewar/ML_Classification_HCDR/blob/main/HCDR_Report.pdf)
 
-<img src="images/kaggle-home-credit.jpg" width="500"/>
-<p float="left">
-  <img src="images/corr_hm.jpg" width="250"/> 
-  <img src="images/scatter_mat.jpg" width="250"/>
-</p>
+<img src="images/kaggle-home-credit.jpg?raw=true"/>
+<img src="images/corr_hm.jpg?raw=true"/> 
+<img src="images/scatter_mat.jpg?raw=true"/>
+
 
 ---
 

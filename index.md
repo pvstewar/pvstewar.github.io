@@ -42,7 +42,7 @@ The purpose of this project is to gather data about clinical trials that have be
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-blue?logo=Jupyter)](#)  [![](https://img.shields.io/badge/plotly-red?logo=plotly)](#) [![](https://img.shields.io/badge/folium-white?logo=folium)](#)
 
-[Project Notebook](https://drive.google.com/file/d/1p3kx5b70l_JfLGdvxLHIDeHsae1zuaGD/view?usp=sharing)
+[Project Notebook](https://drive.google.com/file/d/1p3kx5b70l_JfLGdvxLHIDeHsae1zuaGD/view?usp=sharing)<br>
 [Project Slides](https://github.com/pvstewar/IN_Clinical_trials/blob/main/Final%20IN%20Clinical%20Trial%20Report.pdf)
 
 <img src="images/US_other.jpg"/>

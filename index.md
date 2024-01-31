@@ -5,7 +5,7 @@
 
 The topic of this project is using Python Machine Learning to classify credit default risk based on data about individuals that is typically outside of the normal data reported to lenders in attempting to attain credit. The project data and the submissions included were part of the Kaggle [Home Credit Default Risk competition](https://www.kaggle.com/competitions/home-credit-default-risk). The sections of the project are divided into multiple notebooks for ease of access and can be viewed in the following links.
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-blue?logo=Jupyter)](#)  [![](https://img.shields.io/badge/PyTorch-red?logo=pytorch)](#) [![](https://img.shields.io/badge/ScikitLearn_ML-blue?logo=scikitlearn)](#)
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-blue?logo=Jupyter)](#)  [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/ScikitLearn_ML-blue?logo=scikitlearn)](#)
 
 - [Part 1 Exploritory Data Analysis](https://github.com/pvstewar/ML_Classification_HCDR/blob/main/P1_HCDR_EDA.ipynb)
 - [Part 2 Feature Engineering](https://github.com/pvstewar/ML_Classification_HCDR/blob/main/P2_HCDR_Dataset_Build.ipynb)

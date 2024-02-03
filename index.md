@@ -58,6 +58,6 @@ This project was all about using Public Data to Visualize Housing Affordability 
 [Monroe County Housing Affordability Report](https://github.com/pvstewar/Affordable_housing/blob/main/Monroe_housing_rep.pdf)
 
 <img src="images/IN_renters.png"/>
-<img src="images/Mon_cty.png"/>
+<img src="images/Mon_cnty.png"/>
 
 ---

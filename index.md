@@ -42,7 +42,9 @@ The topic of this project is using Python Machine Learning to classify credit de
   <img src="images/corr_hm.jpg" width="200"/> 
   <img src="images/scatter_mat.jpg" width="200"/>
 </p>
+
 ---
+
 [Gathering Buisines Inteligence with Web Scraping](https://github.com/pvstewar/Python_Price_Scraper_Ergo)
 
 With this project the end user needed to keep up with changing prices in order to avoid costly pricing mistakes during a time of sporadic price increases. In this case the manufacturer Ergotron keeps their own website up to date with current suggested sale prices but does not update channel partners on this information when price changes happen. This project uses the end user supplied list of parts and can gather prices from the manufacturer's website, return those prices to an output price list CSV and visualize the price changes.

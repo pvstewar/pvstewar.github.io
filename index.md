@@ -20,6 +20,7 @@ The purpose of this project was to demonstrate a variety of python data visualiz
 
 <img src="images/crypt_joint_grid.jpg?raw=true"/>
 <img src="images/tsne.jpg?raw=true"/>
+(T-SNE dimmensionality reduction showing multidimensional data trends in a two dimmensional plot)
 
 ---
 

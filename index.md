@@ -45,6 +45,23 @@ The topic of this project is using Python Machine Learning to classify credit de
 </p>
 
 ---
+[Creating a Scalable Data Storage System for a large Network Monitoring Application](https://github.com/pvstewar/Network_monitoring_scalable_data_store)
+
+This project focuses on Cybersecurity Data management with a large-scale open-source network monitoring system. Many useful open-source tools are currently available to gather data on a network in a variety of different ways. The main objective here is to examine some of the data available and to explore some of the distributed computing resources available to create a scalable distributed data storage system to gather data from multiple network monitoring endpoints. Three methods were explored, illuminating the limitations of different approaches and concluding that the most promising approach for a production system would utilize a Spark distributed dataframe as the main data store. The project then integrates complex sample data and proposes architectures for this approach.
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-blue?logo=Jupyter)](#)  [![](https://img.shields.io/badge/PySpark-white?logo=pytorch)](#) [![](https://img.shields.io/badge/MongoDB-blue?logo=MongoDB)](#)
+
+- [Project Notebook](https://github.com/pvstewar/Network_monitoring_scalable_data_store/blob/main/Network_monitoring_scalable.ipynb)
+
+<img src="images/data_model.jpg" width="400"/>
+<img src="images/glastopf.jpg" width="400"/>
+
+<p float="left">
+  <img src="images/snort.jpg" width="200"/> 
+  <img src="images/network_diag.jpg" width="200"/>
+</p>
+---
+
 
 [Gathering Buisines Inteligence with Web Scraping](https://github.com/pvstewar/Python_Price_Scraper_Ergo)
 

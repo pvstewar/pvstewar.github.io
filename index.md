@@ -54,7 +54,6 @@ This project focuses on Cybersecurity Data management with a large-scale open-so
 - [Project Notebook](https://github.com/pvstewar/Network_monitoring_scalable_data_store/blob/main/Network_monitoring_scalable.ipynb)
 
 <img src="images/data_model.jpg" width="400"/>
-<img src="images/glastopf.jpg" width="400"/>
 
 <p float="left">
   <img src="images/snort.jpg" width="200"/> 

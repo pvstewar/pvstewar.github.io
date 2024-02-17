@@ -35,6 +35,8 @@ The purpose of this project was to demonstrate a variety of python data visualiz
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-blue?logo=Jupyter)](#)  [![](https://img.shields.io/badge/Seaborn-white?logo=seaborn)](#) [![](https://img.shields.io/badge/ScikitLearn-blue?logo=scikitlearn)](#)
 
+[Project Notebook](https://github.com/pvstewar/ML_Crypto_DataViz/blob/main/ML_Crypto_DataViz.ipynb)
+
 <img src="images/crypt_joint_grid.jpg?raw=true"/>
 <img src="images/tsne.jpg?raw=true"/>
 (T-SNE dimmensionality reduction showing multidimensional data trends in a two dimmensional plot)
@@ -81,7 +83,7 @@ The purpose of this project is to gather data about clinical trials that have be
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-blue?logo=Jupyter)](#)  [![](https://img.shields.io/badge/plotly-red?logo=plotly)](#) [![](https://img.shields.io/badge/folium-white?logo=folium)](#)
 
-[Project Notebook](https://drive.google.com/file/d/1p3kx5b70l_JfLGdvxLHIDeHsae1zuaGD/view?usp=sharing)<br>
+[Project Notebook](https://colab.research.google.com/drive/1p3kx5b70l_JfLGdvxLHIDeHsae1zuaGD)<br>
 [Project Slides](https://github.com/pvstewar/IN_Clinical_trials/blob/main/Final%20IN%20Clinical%20Trial%20Report.pdf)
 
 <img src="images/US_other.jpg"/>
@@ -93,7 +95,7 @@ This project was all about using Public Data to Visualize Housing Affordability 
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-blue?logo=Jupyter)](#)  [![](https://img.shields.io/badge/plotly-red?logo=plotly)](#) [![](https://img.shields.io/badge/USCensus-red?logo=uscensus)](#) 
 
-[Monroe County Analysis Notebook](https://drive.google.com/file/d/1QpuJQRpk4R1VypwAHDTXXkNVCmPKJWic/view?usp=sharing)<br>
+[Monroe County Analysis Notebook](https://colab.research.google.com/drive/1QpuJQRpk4R1VypwAHDTXXkNVCmPKJWic)<br>
 [State of Indiana Analysis Notebook](https://colab.research.google.com/drive/1dOej3ArSv2ZCYBuMJwvC1Etg4UKcnN12?usp=sharing)<br>
 [Monroe County Housing Affordability Report](https://github.com/pvstewar/Affordable_housing/blob/main/Monroe_housing_rep.pdf)
 

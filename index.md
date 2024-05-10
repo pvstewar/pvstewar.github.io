@@ -1,4 +1,4 @@
-## Portfolio
+# Portfolio
 ---
 ## [Creating a Scalable Data Storage System for a large Network Monitoring Application](https://github.com/pvstewar/Network_monitoring_scalable_data_store)
 
@@ -17,7 +17,7 @@ This project focuses on Cybersecurity Data management with a large-scale open-so
 
 ---
 
-[Clustering and Mapping Food Deserts with Venue Data](https://github.com/pvstewar/Food-Availability-Mapping)
+## [Clustering and Mapping Food Deserts with Venue Data](https://github.com/pvstewar/Food-Availability-Mapping)
 
 This project was created to explore the concept of "Food Deserts", or areas in a city that have limited access to healthy food sources. This project uses the Four-Square venue application's open data combined with geographic location info. The project was intended to visualize the geographic distribution of grocery stores in the city of Indianapolis, Indiana and map this distribution for easy visualization in a heat map configuration. The project can easily be adapted to map any US location. The project also uses KNN clustering to organize the zip codes around Indianapolis based on this distribution, as well as conducting some basic EDA around connections between income and food availability to help add context to the data.
 
@@ -29,7 +29,7 @@ This project was created to explore the concept of "Food Deserts", or areas in a
 <img src="images/food_desert_heat_map.jpg?raw=true"/>
 
 ---
-[Using Data Visualization to Examine ML and Graph Cryptocurrency Illicit Transaction Datasets](https://github.com/pvstewar/ML_Crypto_DataViz)
+## [Using Data Visualization to Examine ML and Graph Cryptocurrency Illicit Transaction Datasets](https://github.com/pvstewar/ML_Crypto_DataViz)
 
 The purpose of this project was to demonstrate a variety of python data visualization techniques. Given the key role of cryptocurrency in monetizing cybersecurity vulnerability exploitation, I was interested in understanding the methods used in tracking illicit transactions in some of the most common cryptocurrency types. It was challenging to find publicly available quality machine learning and advanced analytics studies that actually make their training data open and accessible, but I was able to find two projects to visualize and gain a better understanding of the data. The visualization techniques are helpful in creating more transparency around ML approaches which are typically somewhat opaque. The exploration of these datasets also helped to understand the scale and composition of the use of cryptocurrency in a variety of illicit financial activities.
 
@@ -43,7 +43,7 @@ The purpose of this project was to demonstrate a variety of python data visualiz
 
 ---
 
-[Loan Risk Assessment from Alternative Financial Indicators](https://github.com/pvstewar/ML_Classification_HCDR)
+## [Loan Risk Assessment from Alternative Financial Indicators](https://github.com/pvstewar/ML_Classification_HCDR)
 
 The topic of this project is using Python Machine Learning to classify credit default risk based on data about individuals that is typically outside of the normal data reported to lenders in attempting to attain credit. The project data and the submissions included were part of the Kaggle [Home Credit Default Risk competition](https://www.kaggle.com/competitions/home-credit-default-risk). The sections of the project are divided into multiple notebooks for ease of access and can be viewed in the following links.
 
@@ -65,7 +65,7 @@ The topic of this project is using Python Machine Learning to classify credit de
 
 ---
 
-[Gathering Buisines Inteligence with Web Scraping](https://github.com/pvstewar/Python_Price_Scraper_Ergo)
+## [Gathering Buisines Inteligence with Web Scraping](https://github.com/pvstewar/Python_Price_Scraper_Ergo)
 
 With this project the end user needed to keep up with changing prices in order to avoid costly pricing mistakes during a time of sporadic price increases. In this case the manufacturer Ergotron keeps their own website up to date with current suggested sale prices but does not update channel partners on this information when price changes happen. This project uses the end user supplied list of parts and can gather prices from the manufacturer's website, return those prices to an output price list CSV and visualize the price changes.
 
@@ -77,7 +77,7 @@ With this project the end user needed to keep up with changing prices in order t
 
 ---
 
-[Clinical Trial Analysis](https://github.com/pvstewar/IN_Clinical_trials)
+## [Clinical Trial Analysis](https://github.com/pvstewar/IN_Clinical_trials)
 
 The purpose of this project is to gather data about clinical trials that have been conducted in the state of Indiana in order to make a determination about the level of trial activity in the state, how it compares to other states, and the nature of the trials. The goal is to understand where Indiana ranks, what areas we may be able to target to make the state more of a destination for clinic trials in the future, and to get a general sense of the distribution of trial activity across the country as a whole.
 
@@ -89,7 +89,7 @@ The purpose of this project is to gather data about clinical trials that have be
 <img src="images/US_other.jpg"/>
 
 ---
-[Quantifying and Mapping Economic Vulnerability on a Hyperlocal Scale](https://github.com/pvstewar/Affordable_housing)
+## [Quantifying and Mapping Economic Vulnerability on a Hyperlocal Scale](https://github.com/pvstewar/Affordable_housing)
 
 This project was all about using Public Data to Visualize Housing Affordability by county. This project looks specifically at the state of Indiana and Monroe County but can be modified to focus on any county in the US. The goal of the project is to use publicly available data to look at the average disposable income after housing costs on a hyperlocal level. The motivation behind this project is to better contextualize the idea of economic vulnerability based on the high cost of housing in some urban areas and the need to look deeper than simply understanding the median income. This should add significant value for emergency preparedness in cities when combined with mapped data around other risk factors for natural disasters especially in resource allocation for recovery planning.
 

@@ -1,6 +1,6 @@
 ## Portfolio
 ---
-[Creating a Scalable Data Storage System for a large Network Monitoring Application](https://github.com/pvstewar/Network_monitoring_scalable_data_store)
+## [Creating a Scalable Data Storage System for a large Network Monitoring Application](https://github.com/pvstewar/Network_monitoring_scalable_data_store)
 
 This project focuses on Cybersecurity Data management with a large-scale open-source network monitoring system. Many useful open-source tools are currently available to gather data on a network in a variety of different ways. The main objective here is to examine some of the data available and to explore some of the distributed computing resources available to create a scalable distributed data storage system to gather data from multiple network monitoring endpoints. Three methods were explored, illuminating the limitations of different approaches and concluding that the most promising approach for a production system would utilize a Spark distributed dataframe as the main data store. The project then integrates complex sample data and proposes architectures for this approach.
 

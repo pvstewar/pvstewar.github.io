@@ -14,7 +14,7 @@ The community solar concept is based on the idea of building solar generation sy
 - [Project Notebook](https://colab.research.google.com/drive/1B14NA0SVLDeGAkjkeHW4QharoPGIyFkA)
 
 <img src="images/com_solar.png?raw=true"/>
-(Indiana high priority community solar locations (blue), Energy Communities (yellow), and DAC Census Tracts (red)
+(Indiana high priority community solar locations (blue), Energy Communities (yellow), and DAC Census Tracts (red))
 
 ---
 ## [Creating a Scalable Data Storage System for a large Network Monitoring Application](https://github.com/pvstewar/Network_monitoring_scalable_data_store)

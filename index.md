@@ -1,10 +1,27 @@
 # Portfolio
 ---
+## [Analyzing Community Solar Energy Sites](https://github.com/pvstewar/Community_Solar)
+
+The community solar concept is based on the idea of building solar generation systems that can share energy generated among the site owner and community members who have significant financial need. For this project, our team from Indiana University was given the opportunity to work with a local greenbank start up organization to help identify potential sites that met a list of criteria as required to receive public funds. We were able to use publicly available datasets to find nonprofit organization in Indiana who met all of the following criteria:
+
+1. Located within the census tract listed under the US Department of Energy Disadvantaged Communities list. These census tracts are designated to have a combination of economic need and energy vulnerability that make them preferred targets for community solar with the goal of providing more cost effective and reliable access to energy.
+2. Located within specific communities that are designated as Energy Communities by the US government under an initiative focused on creating green energy jobs in communities that are affected by the fossil fuel economic sector.
+3. Classified by the types of electrical service providers in order to determine the relative likelihood of success for the project based on knowledge of the ability to launch community solar projects in various service territories.
+4. The overall viability of the site for solar energy projects as determined by the Google Solar API which provides various data about buildings and solar energy potential.
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-blue?logo=Jupyter)](#)  [![](https://img.shields.io/badge/Google_Maps_API-white?logo=Google)](#) [![](https://img.shields.io/badge/GeoPandas-blue?logo=geopandas)](#)
+
+- [Project Notebook](https://colab.research.google.com/drive/1B14NA0SVLDeGAkjkeHW4QharoPGIyFkA)
+
+<img src="images/com_solar.png?raw=true"/>
+(Indiana high priority community solar locations (blue), Energy Communities (yellow), and DAC Census Tracts (red)
+
+---
 ## [Creating a Scalable Data Storage System for a large Network Monitoring Application](https://github.com/pvstewar/Network_monitoring_scalable_data_store)
 
 This project focuses on Cybersecurity Data management with a large-scale open-source network monitoring system. Many useful open-source tools are currently available to gather data on a network in a variety of different ways. The main objective here is to examine some of the data available and to explore some of the distributed computing resources available to create a scalable distributed data storage system to gather data from multiple network monitoring endpoints. Three methods were explored, illuminating the limitations of different approaches and concluding that the most promising approach for a production system would utilize a Spark distributed dataframe as the main data store. The project then integrates complex sample data and proposes architectures for this approach.
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-blue?logo=Jupyter)](#)  [![](https://img.shields.io/badge/PySpark-white?logo=pytorch)](#) [![](https://img.shields.io/badge/MongoDB-blue?logo=MongoDB)](#)
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-blue?logo=Jupyter)](#)  [![](https://img.shields.io/badge/PySpark-white?logo=apachespark)](#) [![](https://img.shields.io/badge/MongoDB-blue?logo=MongoDB)](#)
 
 - [Project Notebook](https://github.com/pvstewar/Network_monitoring_scalable_data_store/blob/main/Network_monitoring_scalable.ipynb)
 

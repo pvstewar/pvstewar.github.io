@@ -12,6 +12,7 @@ The community solar concept is based on the idea of building solar generation sy
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-blue?logo=Jupyter)](#)  [![](https://img.shields.io/badge/Google_Maps_API-white?logo=Google)](#) [![](https://img.shields.io/badge/GeoPandas-blue?logo=geopandas)](#)
 
 - [Project Notebook](https://colab.research.google.com/drive/1B14NA0SVLDeGAkjkeHW4QharoPGIyFkA)
+- [Project Slides](https://github.com/pvstewar/Community_Solar/blob/main/Community_Solar_Adoption.pdf)
 
 <img src="images/com_solar.png?raw=true"/>
 (Indiana high priority community solar locations (blue), Energy Communities (yellow), and DAC Census Tracts (red))

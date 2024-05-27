@@ -51,8 +51,8 @@ This project was created to explore the concept of "Food Deserts", or areas in a
 ---
 ## [Using Data Visualization to Examine ML and Graph Cryptocurrency Illicit Transaction Datasets](https://github.com/pvstewar/ML_Crypto_DataViz)
 
-<img src="images/crypt_joint_grid.jpg?raw=true"/>
-<img src="images/tsne.jpg?raw=true"/>
+<img src="images/crypt_joint_grid.jpg" width="350"/>
+<img src="images/tsne.jpg" width="350"/>
 *(T-SNE dimensionality reduction showing multidimensional data trends in a two dimensional plot)*
 
 The purpose of this project was to demonstrate a variety of python data visualization techniques. Given the key role of cryptocurrency in monetizing cybersecurity vulnerability exploitation, I was interested in understanding the methods used in tracking illicit transactions in some of the most common cryptocurrency types. It was challenging to find publicly available quality machine learning and advanced analytics studies that actually make their training data open and accessible, but I was able to find two projects to visualize and gain a better understanding of the data. The visualization techniques are helpful in creating more transparency around ML approaches which are typically somewhat opaque. The exploration of these datasets also helped to understand the scale and composition of the use of cryptocurrency in a variety of illicit financial activities.
@@ -114,8 +114,9 @@ The purpose of this project is to gather data about clinical trials that have be
 ---
 ## [Quantifying and Mapping Economic Vulnerability on a Hyperlocal Scale](https://github.com/pvstewar/Affordable_housing)
 
-<img src="images/IN_renters.png" width="300"/>
-<img src="images/Mon_cnty.png" width="300"/>
+<img src="images/IN_renters.png"/>
+<img src="images/Mon_cnty.png"/><br>
+*(Top: State of Indiana econmoic vulnerablility by census tract, Bottom: Monroe County econmoic vulnerablility by census tract)*
 
 This project was all about using Public Data to Visualize Housing Affordability by county. This project looks specifically at the state of Indiana and Monroe County but can be modified to focus on any county in the US. The goal of the project is to use publicly available data to look at the average disposable income after housing costs on a hyperlocal level. The motivation behind this project is to better contextualize the idea of economic vulnerability based on the high cost of housing in some urban areas and the need to look deeper than simply understanding the median income. This should add significant value for emergency preparedness in cities when combined with mapped data around other risk factors for natural disasters especially in resource allocation for recovery planning.
 

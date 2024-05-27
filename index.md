@@ -2,6 +2,9 @@
 ---
 ## [Analyzing Community Solar Energy Sites](https://github.com/pvstewar/Community_Solar)
 
+<img src="images/com_solar.png?raw=true"/>
+(Indiana high priority community solar locations (blue), Energy Communities (yellow), and DAC Census Tracts (red))
+
 The community solar concept is based on the idea of building solar generation systems that can share energy generated among the site owner and community members who have significant financial need. For this project, our team from Indiana University was given the opportunity to work with a local greenbank start up organization to help identify potential sites that met a list of criteria as required to receive public funds. We were able to use publicly available datasets to find nonprofit organization in Indiana who met all of the following criteria:
 
 1. Located within the census tract listed under the US Department of Energy Disadvantaged Communities list. These census tracts are designated to have a combination of economic need and energy vulnerability that make them preferred targets for community solar with the goal of providing more cost effective and reliable access to energy.
@@ -13,9 +16,6 @@ The community solar concept is based on the idea of building solar generation sy
 
 - [Project Notebook](https://colab.research.google.com/drive/1B14NA0SVLDeGAkjkeHW4QharoPGIyFkA)
 - [Project Slides](https://github.com/pvstewar/Community_Solar/blob/main/Community_Solar_Adoption.pdf)
-
-<img src="images/com_solar.png?raw=true"/>
-(Indiana high priority community solar locations (blue), Energy Communities (yellow), and DAC Census Tracts (red))
 
 ---
 ## [Creating a Scalable Data Storage System for a large Network Monitoring Application](https://github.com/pvstewar/Network_monitoring_scalable_data_store)

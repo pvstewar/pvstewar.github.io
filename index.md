@@ -52,7 +52,7 @@ This project was created to explore the concept of "Food Deserts", or areas in a
 ## [Using Data Visualization to Examine ML and Graph Cryptocurrency Illicit Transaction Datasets](https://github.com/pvstewar/ML_Crypto_DataViz)
 
 <img src="images/crypt_joint_grid.jpg" width="350"/>
-<img src="images/tsne.jpg" width="350"/>
+<img src="images/tsne.jpg" width="350"/><br>
 *(T-SNE dimensionality reduction showing multidimensional data trends in a two dimensional plot)*
 
 The purpose of this project was to demonstrate a variety of python data visualization techniques. Given the key role of cryptocurrency in monetizing cybersecurity vulnerability exploitation, I was interested in understanding the methods used in tracking illicit transactions in some of the most common cryptocurrency types. It was challenging to find publicly available quality machine learning and advanced analytics studies that actually make their training data open and accessible, but I was able to find two projects to visualize and gain a better understanding of the data. The visualization techniques are helpful in creating more transparency around ML approaches which are typically somewhat opaque. The exploration of these datasets also helped to understand the scale and composition of the use of cryptocurrency in a variety of illicit financial activities.

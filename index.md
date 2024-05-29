@@ -2,7 +2,7 @@
 ---
 ## [Analyzing Community Solar Energy Sites](https://github.com/pvstewar/Community_Solar)
 
-<img src="/images/com_solar.png" width="400"/><br>
+<img src="/images/com_solar.png" width="350"/><br>
 *(Indiana high priority community solar locations (blue), Energy Communities (yellow), and DAC Census Tracts (red))*
 
 The community solar concept is based on the idea of building solar generation systems that can share energy generated among the site owner and community members who have significant financial need. For this project, our team from Indiana University was given the opportunity to work with a local greenbank start up organization to help identify potential sites that met a list of criteria as required to receive public funds. We were able to use publicly available datasets to find nonprofit organization in Indiana who met all of the following criteria:

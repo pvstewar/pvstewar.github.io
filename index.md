@@ -12,7 +12,7 @@ The community solar concept is based on the idea of building solar generation sy
 3. Classified by the types of electrical service providers in order to determine the relative likelihood of success for the project based on knowledge of the ability to launch community solar projects in various service territories.
 4. The overall viability of the site for solar energy projects as determined by the Google Solar API which provides various data about buildings and solar energy potential.
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-blue?logo=Jupyter)](#)  [![](https://img.shields.io/badge/Google_Maps_API-white?logo=Google)](#) [![](https://img.shields.io/badge/GeoPandas-blue?logo=geopandas)](#)
+[![](https://img.shields.io/badge/Python-green?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-blue?logo=Jupyter)](#)  [![](https://img.shields.io/badge/Google_Maps_API-white?logo=Google)](#) [![](https://img.shields.io/badge/GeoPandas-red?logo=geopandas)](#)
 
 ##### [Project Notebook](https://colab.research.google.com/drive/1B14NA0SVLDeGAkjkeHW4QharoPGIyFkA)
 ##### [Project Slides](https://github.com/pvstewar/Community_Solar/blob/main/Community_Solar_Adoption.pdf)
@@ -26,7 +26,7 @@ The community solar concept is based on the idea of building solar generation sy
 
 The purpose of the project is to generate useful knowledge objects that will explain data science concepts and provide references and guidance for people who are interested in learning more about each concept. The idea here is that we will leverage langchain and large language models to generate the basic text so that we can take on the role of editor and refine the generated articles to produce high quality and accurate results at a scale that we would not be able to achieve when creating the knowledge objects from scratch on our own. This notebook includes code to implement several LLMs with Langchain and uses the Few Shot method to guide the output format produced by the pipeline, along with NLP keyword extraction to generate a list of key terms.
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-red?logo=Jupyter)](#)  [![](https://img.shields.io/badge/Langchain-white?logo=langchain)](#) [![](https://img.shields.io/badge/GPT4-blue?logo=openai)](#) [![](https://img.shields.io/badge/Gemini-red?logo=google)](#) [![](https://img.shields.io/badge/Llama_2-white?logo=meta)](#) [![](https://img.shields.io/badge/Claude_3-red?logo=anthropic)](#)
+[![](https://img.shields.io/badge/Python-green?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-red?logo=Jupyter)](#)  [![](https://img.shields.io/badge/Langchain-white?logo=langchain)](#) [![](https://img.shields.io/badge/GPT4-blue?logo=openai)](#) [![](https://img.shields.io/badge/Gemini-yellow?logo=google)](#) [![](https://img.shields.io/badge/Llama_2-purple?logo=meta)](#) [![](https://img.shields.io/badge/Claude_3-red?logo=anthropic)](#)
 
 ##### [Project Notebook](https://github.com/pvstewar/knowledge_object_writer/blob/main/KO_pipe_rev2.ipynb)
 

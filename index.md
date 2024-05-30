@@ -18,6 +18,20 @@ The community solar concept is based on the idea of building solar generation sy
 ##### [Project Slides](https://github.com/pvstewar/Community_Solar/blob/main/Community_Solar_Adoption.pdf)
 
 ---
+
+## [Creating an Article Writing Pipeline with Large Language Models and Langchain](https://github.com/pvstewar/knowledge_object_writer)
+
+<img src="/images/human_robot_writing.png" width="350"/><br>
+*(AI Generated Image)*
+
+The purpose of the notebook is to generate useful knowledge objects that will explain data science concepts and provide references and guidance for people who are interested in learning more about each concept. The idea here is that we will leverage langchain and large language models to generate the basic text so that we can take on the role of editor and refine the generated articles to produce high quality and accurate results at a scale that we would not be able to achieve when creating the knowledge objects from scratch on our own.
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-red?logo=Jupyter)](#)  [![](https://img.shields.io/badge/Langchain-white?logo=langchain)](#) [![](https://img.shields.io/badge/GPT4-blue?logo=openai)](#) [![](https://img.shields.io/badge/Gemini-red?logo=google)](#) [![](https://img.shields.io/badge/Llama_2-white?logo=meta)](#) [![](https://img.shields.io/badge/Claude_3-red?logo=anthropic)](#)
+
+##### [Project Notebook](https://github.com/pvstewar/knowledge_object_writer/blob/main/KO_pipe_rev2.ipynb)
+
+---
+
 ## [Creating a Scalable Data Storage System for a large Network Monitoring Application](https://github.com/pvstewar/Network_monitoring_scalable_data_store)
 
 <img src="/images/data_model.jpg" width="400"/>

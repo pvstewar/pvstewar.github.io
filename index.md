@@ -56,7 +56,7 @@ This project focuses on Cybersecurity Data management with a large-scale open-so
 
 This site was intended to be a simple demonstration of creating a website from scratch with Python and Flask to work with a SQL database and perform the basic CRUD actions of Create, Read, Update, and Delete records on the DB. The DB was built using freely available CSV files from the web related to soccer players and teams. The object of the site is to build the highest rated 11 player team you can with the lowest overall salary. The site even includes the ability to create a username to store your team build. The link to the live site is below, along with the code used to build the SQLite DB and the code running the site.
 
-[![](https://img.shields.io/badge/Python-green?logo=Python)](#) [![](https://img.shields.io/badge/flask-blue?logo=flask)](#)  [![](https://img.shields.io/badge/SQLite-white?logo=SQLite)](#) [![](https://img.shields.io/badge/PythonAnywhere?logo=PythonAnywhere)](#) 
+[![](https://img.shields.io/badge/Python-green?logo=Python)](#) [![](https://img.shields.io/badge/flask-blue?logo=flask)](#)  [![](https://img.shields.io/badge/SQLite-red?logo=SQLite)](#) [![](https://img.shields.io/badge/PythonAnywhere-purple?logo=PythonAnywhere)](#) 
 
 ##### [Player Picker Pro Site](http://peeves.pythonanywhere.com/)
 ##### [Site Code Repo](https://github.com/pvstewar/Player_Picker_Pro)

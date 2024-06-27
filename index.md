@@ -49,7 +49,20 @@ This project focuses on Cybersecurity Data management with a large-scale open-so
 ##### [Project Notebook](https://github.com/pvstewar/Network_monitoring_scalable_data_store/blob/main/Network_monitoring_scalable.ipynb)
 
 ---
+## [Building a CRUD Capable SQL based Website with Flask](https://github.com/pvstewar/Player_Picker_Pro)
 
+<img src="/images/ppp_2.png" width="350"/><br>
+*(Screenshot from Player Pickker Pro)*
+
+This site was intended to be a simple demonstration of creating a website from scratch with Python and Flask to work with a SQL database and perform the basic CRUD actions of Create, Read, Update, and Delete records on the DB. The DB was built using freely available CSV files from the web related to soccer players and teams. The object of the site is to build the highest rated 11 player team you can with the lowest overall salary. The site even includes the ability to create a username to store your team build. The link to the live site is below, along with the code used to build the SQLite DB and the code running the site.
+
+[![](https://img.shields.io/badge/Python-green?logo=Python)](#) [![](https://img.shields.io/badge/flask-blue?logo=flask)](#)  [![](https://img.shields.io/badge/sqlite-white?logo=SQLite)](#) [![](https://img.shields.io/badge/pythonanywhere?logo=pythonanywhere)](#) 
+
+##### [Player Picker Pro Site](http://peeves.pythonanywhere.com/)
+##### [Site Code](https://github.com/pvstewar/Player_Picker_Pro)
+##### [SQL DB Build Code](https://github.com/pvstewar/Soccer_stat_database/tree/main)
+
+---
 ## [Clustering and Mapping Food Deserts with Venue Data](https://github.com/pvstewar/Food-Availability-Mapping)
 
 <img src="/images/food_desert_heat_map.jpg?raw=true"/><br>

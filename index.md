@@ -52,7 +52,7 @@ This project focuses on Cybersecurity Data management with a large-scale open-so
 ## [Building a CRUD Capable SQL based Website with Flask](http://peeves.pythonanywhere.com/)
 
 <img src="/images/ppp_2.png" width="350"/><br>
-*(Screenshot from Player Pickker Pro)*
+*(Screenshot from Player Picker Pro)*
 
 This site was intended to be a simple demonstration of creating a website from scratch with Python and Flask to work with a SQL database and perform the basic CRUD actions of Create, Read, Update, and Delete records on the DB. The DB was built using freely available CSV files from the web related to soccer players and teams. The object of the site is to build the highest rated 11 player team you can with the lowest overall salary. The site even includes the ability to create a username to store your team build. The link to the live site is below, along with the code used to build the SQLite DB and the code running the site.
 
